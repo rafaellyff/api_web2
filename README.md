@@ -25,11 +25,6 @@ Baixe o projeto clicando no botão verde escrito "Clone or download" e escolha a
 
 #### 2. Criando o Banco de Dados
 
-<<<<<<< HEAD
-* ...
-# drive_progweb2
-=======
-
 Na interface do PostgreSQL crie uma database com o nome **desenv** e dentro dela um schema com o nome de **api_web2**
 
 *Obs: é necessário que o usuário e senha de acesso ao banco postgreSQL sejam alterados no arquivo database.yml*
@@ -63,5 +58,4 @@ Segue abaixo como você deve executar o projeto após a primeira instalação:
 > rails s 
 
 Basta subir o servidor normalmente e acessar a url http://localhost:3000/
->>>>>>> 336feeeab484d987cf781d309ec563f1771330a1
-# drive_progweb2
+
